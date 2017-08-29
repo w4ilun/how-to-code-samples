@@ -46,13 +46,13 @@ The Arduino 101\* (branded Genuino 101\* outside the U.S.) needs to have the Fir
 You need to have the Grove\* Base Shield V2 connected to an Arduino\* compatible breakout board to plug all the Grove devices into the Grove Base Shield V2. Make sure you have the tiny VCC switch on the Grove Base Shield V2 set to **5V**.
 
 1. Plug one end of a Grove cable into the Grove Sound Sensor, and connect the other end to the AO port on the Grove Base Shield V2.<br>
-![](./../../images/js/equipment-activity.jpg)
+![](./../images/js/equipment-activity.jpg)
 2. Plug one end of a Grove cable into the Grove Piezo Vibration Sensor, and connect the other end to the A2 port on the Grove Base Shield V2.
 3. Plug one end of a Grove cable into the Grove\* RGB LCD, and connect the other end to any of the I2C ports on the Grove Base Shield V2.
 
 ### Connecting the DFRobot\* sensors
 
-![](./../../images/js/equipment-activity-dfrobot.jpg)
+![](./../images/js/equipment-activity-dfrobot.jpg)
 
 You need to have a LCD Keypad Shield connected to an Arduino\* compatible breakout board to plug all the DFRobot\* devices into the LCD Keypad Shield.
 
