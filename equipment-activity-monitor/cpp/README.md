@@ -3,10 +3,10 @@
 Follow all the steps listed in the project's root directory to configure your hardware and software prerequisites.
 
 Successful output should be similar to the one in the image below.<br>
-![](./../images/cpp/cpp-equp-act-mon-successful-output.png)
+![](./../../images/cpp/cpp-equp-act-mon-successful-output.png)
 
 The LCD should now display `ready`.<br>
-![](./../images/cpp/equipment-lcd.jpg)
+![](./../../images/cpp/equipment-lcd.jpg)
 
 ## Running the example with the cloud server
 
